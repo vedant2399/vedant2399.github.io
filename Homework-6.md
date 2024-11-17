@@ -16,7 +16,7 @@ title: HW6 Visualizations
 <p>The data was grouped by the `Agency Name` column, and the total square footage was summed for each agency to provide an aggregated view of the data. This transformation was done to summarize building sizes managed by each agency.</p>
 
 ### Overlap with Homework #5
-<p>In Homework #5, a similar analysis was done using a different visualization tool, but this visualization in Altair has been enhanced with sorting and a distinct color scheme for better clarity. Changes were made to the design, sorting order, and color scale compared to Homework #5.</p>
+<p>In Homework #5, a different dataset was used. In this Homewrok, changes were made to the dataset, analysis alongwith design, sorting order, and color scale as well.</p>
 
 <iframe src="bar_chart.html" width="800" height="600"></iframe>
 
